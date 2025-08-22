@@ -29,5 +29,5 @@ First, I created Power BI dashboards for an overview of the data, then analyzed 
 
 ## Some Screenshots of Analysis
 <img width="880" alt="Screenshot 2023-08-20 at 3 42 24 PM" src="https://github.com/user-attachments/assets/4f428d84-1132-4d77-9e00-253409bb92da">
-<img width="880" alt="Screenshot 2023-08-20 at 3 42 24 PM" src="https://github.com/user-attachments/assets/4f428d84-1132-4d77-9e00-253409bb92da">
+<img width="880" alt="Screenshot 2023-08-20 at 3 42 24 PM" src="https://github.com/user-attachments/assets/2775068a-47ac-4ef8-a367-682b48e12f73">
 
